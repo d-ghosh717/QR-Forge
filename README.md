@@ -33,7 +33,7 @@ https://github.com/d-ghosh717/QR-Forge/releases/latest
 
 ### Home
 
-![Home](screenshots/home.jpg)
+<img src="screenshots/home.jpg" width="280"/>
 
 ---
 
