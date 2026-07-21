@@ -27,7 +27,7 @@ Download the latest APK from the **Releases** section.
 
 👉 **Latest Release**
 
-https://github.com/YOUR_USERNAME/QR-Forge/releases/latest
+https://github.com/d-ghosh717/QR-Forge/releases/latest
 
 ---
 
