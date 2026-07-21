@@ -190,15 +190,15 @@ Jetpack Compose UI
 
 ### Templates
 
-![Templates](screenshots/templates.jpg)
+<img src="screenshots/templates.jpg" width="280"/>
 
 ### Customize
 
-![Customize](screenshots/customization.jpg)
+<img src="screenshots/customization.jpg" width="280"/>
 
 ### Generated QR
 
-![Generated](screenshots/generated.png)
+<img src="screenshots/generated.jpg" width="280"/>
 
 ---
 
