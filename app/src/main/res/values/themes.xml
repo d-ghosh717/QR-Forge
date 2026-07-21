@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QRForge" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorBackground">#FF090909</item>
+        <item name="android:statusBarColor">#FF090909</item>
+        <item name="android:navigationBarColor">#FF090909</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/background_0</item>
+    </style>
+</resources>
